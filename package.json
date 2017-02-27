@@ -45,7 +45,7 @@
     "mkdirp": "0.5.1",
     "mocha": "3.2.0",
     "npm-watch": "0.1.8",
-    "sinon": "1.17.7",
+    "sinon": "2.0.0-pre.6",
     "sinon-chai": "2.8.0"
   },
   "browserify": {
