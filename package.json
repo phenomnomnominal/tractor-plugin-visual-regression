@@ -36,7 +36,7 @@
     "brfs": "1.4.3",
     "browserify": "14.0.0",
     "browserify-ngannotate": "2.0.0",
-    "browserify-shim": "3.8.13",
+    "browserify-shim": "3.8.14",
     "chai": "3.5.0",
     "coveralls": "2.11.16",
     "dirty-chai": "1.2.2",
