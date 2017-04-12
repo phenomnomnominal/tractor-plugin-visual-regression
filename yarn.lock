@@ -4082,9 +4082,15 @@ tough-cookie@~2.3.0:
   dependencies:
     punycode "^1.4.1"
 
-tractor-error-handler@^0.1.2, tractor-error-handler@^0.1.4:
+tractor-error-handler@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/tractor-error-handler/-/tractor-error-handler-0.1.4.tgz#dc965011611e65284bdb809aeca94528b11bd7c2"
+  dependencies:
+    tractor-logger "^0.1.0"
+
+tractor-error-handler@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/tractor-error-handler/-/tractor-error-handler-0.2.0.tgz#ebe65b2bfd4006e84df2597db086ce3d8b3dd577"
   dependencies:
     tractor-logger "^0.1.0"
 
