@@ -63,6 +63,6 @@
     "pixelmatch": "^4.0.2",
     "pngjs": "^3.0.1",
     "tractor-error-handler": "^0.1.2",
-    "tractor-file-structure": "^0.1.1-beta.0"
+    "tractor-file-structure": "^0.2.0"
   }
 }
