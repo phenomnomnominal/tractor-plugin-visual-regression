@@ -37,7 +37,7 @@
     "browserify": "^14.3.0",
     "browserify-ngannotate": "^2.0.0",
     "browserify-shim": "^3.8.14",
-    "chai": "^3.5.0",
+    "chai": "^4.0.1",
     "coveralls": "^2.13.0",
     "dirty-chai": "^1.2.2",
     "eslint": "^3.19.0",
