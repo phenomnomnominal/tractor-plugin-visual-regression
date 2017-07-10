@@ -39,7 +39,7 @@
     "browserify-shim": "^3.8.14",
     "chai": "^3.5.0",
     "coveralls": "^2.13.0",
-    "dirty-chai": "^1.2.2",
+    "dirty-chai": "^2.0.1",
     "eslint": "^3.19.0",
     "istanbul": "^1.0.0-alpha.2",
     "mkdirp": "^0.5.1",
