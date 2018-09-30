@@ -1,6 +1,10 @@
 language: node_js
 node_js:
   - "node"
-script: yarn run build && yarn run coveralls
+addons:
+  code_climate:
+    repo_token: ec1b47c02651b843588c6700a79baf2be49376578e73306f140ccf1529f3ad41
+script: yarn run build
 after_success:
-  - bash travis-after-build.sh
+  - npm install -g codeclimate-test-reporter
+  - codeclimate-test-reporter < ./reports/coverage/lcov.info

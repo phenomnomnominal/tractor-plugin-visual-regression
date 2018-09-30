@@ -2,7 +2,8 @@ node_modules/
 reports/
 src/
 .babelrc
+.codeclimate.yml
 .eslintrc.json
 .istanbulrc.json
 .mocharc
-npm-debug.log
+.travis.yml
