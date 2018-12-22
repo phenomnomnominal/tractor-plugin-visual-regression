@@ -33,7 +33,7 @@
     "build": "src/**/*.js"
   },
   "dependencies": {
-    "@babel/polyfill": "^7.0.0",
+    "@babel/polyfill": "^7.2.5",
     "pixelmatch": "^4.0.2",
     "pngjs": "^3.3.3"
   },
